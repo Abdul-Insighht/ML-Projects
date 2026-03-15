@@ -1,48 +1,87 @@
-# ML Projects
+﻿<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ML%20Projects&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+</div>
 
-A project by Hafiz Abdul Rehman.
+# ML-Projects
 
-## 📖 Overview
+Collection of machine learning projects covering classification, regression, clustering and other ML techniques with real-world datasets.
 
-This repository contains the implementation of ML Projects.
+---
 
-## 🚀 Features
+## Project Status: âœ… COMPLETE & READY FOR DEPLOYMENT
 
-- Implementation details coming soon
+![GitHub stars](https://img.shields.io/github/stars/Abdul-Insighht/=social)
+![GitHub forks](https://img.shields.io/github/forks/Abdul-Insighht/=social)
 
-## ⚙️ Installation
+---
 
+## ðŸ› ï¸ Tech Stack
+
+```
+Python, Scikit-learn, Pandas, NumPy, Jupyter Notebook
+```
+
+---
+
+## ðŸš€ Getting Started
+
+1. **Clone the repository**
 ```bash
 git clone https://github.com/Abdul-Insighht/ML-Projects.git
 cd ML-Projects
 ```
 
-## 📝 Usage
+2. **Install dependencies**
+```bash
+pip install -r requirements.txt
+```
 
-Documentation coming soon.
-
-
----
-
-## 📬 Contact
-
-**Hafiz Abdul Rehman**
-
-- 📧 Email: hafizrehman3321@gmail.com
-- 💼 LinkedIn: [Hafiz Abdul Rehman](https://linkedin.com/in/hafiz-abdul-rehman-9990ab329)
-- 🐙 GitHub: [Abdul-Insighht](https://github.com/Abdul-Insighht)
+3. **Run the project**
+```bash
+python main.py
+```
 
 ---
 
-## 🌟 Show Your Support
+## â­ Quick Links
 
-If you find this project helpful, please consider:
-
-- ⭐ **Starring** this repository
-- 🔄 **Sharing** with others
-- 🐛 **Reporting** issues
-- 💡 **Suggesting** improvements
+â­ [Star this repo](https://github.com/Abdul-Insighht/ML-Projects) â€¢ ðŸ› [Report Bug](https://github.com/Abdul-Insighht/ML-Projects/issues) â€¢ ðŸ’¡ [Request Feature](https://github.com/Abdul-Insighht/ML-Projects/issues)
 
 ---
 
-<p align="center">Made with ❤️ by <b>Hafiz Abdul Rehman</b></p>
+Made with â¤ï¸ using Python & AI Technologies â€” Demonstration by **Abdul-Insighht** - Data Science Specialist | AI Agent & Agentic AI Developer
+
+---
+
+## ðŸ‘¤ Author
+
+<table>
+<tr>
+<td>
+
+**Hafiz Abdul Rehman**  
+[Abdul-Insighht](https://github.com/Abdul-Insighht) Â· he/him  
+**Data Science Specialist | AI Agent & Agentic AI Developer**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Abdul--Insighht-181717?style=flat-square&logo=github)](https://github.com/Abdul-Insighht)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hafiz-abdul-rehman-9990ab329/)
+
+</td>
+</tr>
+</table>
+
+---
+
+## ðŸ“„ License
+
+This project is licensed under the **MIT License**.
+
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
+
+<div align="center">
+  <sub>â­ï¸ From <a href="https://github.com/Abdul-Insighht">Abdul-Insighht</a> â€” Passionate about AI, ML, and solving real-world problems</sub>
+</div>
